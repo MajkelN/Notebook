@@ -8,7 +8,7 @@
 
 ## Project Overview 🎉
 
-This application is a notebook. The user of the Notebook can add, edit and delete notes, as well as register and log in. The frontend of the application is based on Vite + React, and the backend is based on Express + MongoDB.
+This app is a notebook. The user of the Notebook can add, edit and delete notes, as well as register and log in. The frontend of the app is based on Vite + React, and the backend is based on Express + MongoDB.
 
 ## Live 📍
 
